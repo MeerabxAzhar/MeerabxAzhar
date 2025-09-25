@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,13 +26,13 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Meerab's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeerabAzhar&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeerabAzhar&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meerab-azhar-40b909282)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meerabazhar18@gmail.com)
 
