@@ -24,11 +24,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
----
-
-##  GitHub Stats
-![Meerab's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeerabAzhar&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeerabAzhar&layout=compact&theme=tokyonight)
 
 ---
 
