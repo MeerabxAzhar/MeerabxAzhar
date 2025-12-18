@@ -1,7 +1,7 @@
 # Hi, I'm Meerab
 
 - Software Engineer | Passionate about AI & Mobile Apps  
-- Currently learning flutter & design
+- Currently learning React & Design
 
 ---
 
