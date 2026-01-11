@@ -5,19 +5,19 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages & Frameworks
+###  Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,cs,python,javascript,react,html,css" />
 </p>
 
-### 🧰 Tools & Environments
+###  Tools & Environments
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,androidstudio" />
 </p>
 
-### 🎨 Design & Creative Tools
+###  Design & Creative Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
@@ -25,14 +25,14 @@
 
 ---
 
-## 🚀 Current Focus
-- ⚛️ React & frontend architecture  
-- 🎨 UI/UX design systems  
-- 📱 Mobile & web-based applications  
+##  Current Focus
+-  React & frontend architecture  
+-  UI/UX design systems  
+-  Mobile & web-based applications  
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/meerabxazhar-tinks">
