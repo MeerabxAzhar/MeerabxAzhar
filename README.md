@@ -26,22 +26,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeerabxAzhar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeerabxAzhar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MeerabxAzhar&theme=tokyonight&hide_border=true" />
-</p>
----
-
 ## 🚀 Current Focus
 - ⚛️ React & frontend architecture  
 - 🎨 UI/UX design systems  
