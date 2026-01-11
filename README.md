@@ -1,8 +1,7 @@
-# Hi, I'm Meerab 👋  
-🚀 Software Engineer | Creative Developer | Lifelong Learner  
+# Hi, I'm Meerab 👋
 
-- Passionate about building user-focused applications  
-- Currently learning **React** & improving **UI/UX design skills**
+- Software Engineer with a strong passion for learning and building  
+- Currently focused on **React development** and **UI/UX design**
 
 ---
 
