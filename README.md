@@ -1,7 +1,7 @@
 # Hi, I'm Meerab 👋
 
 - Software Engineer with a strong passion for learning and building  
-- Currently focused on **React development** and **UI/UX design**
+- Currently focused on **React development** 
 
 ---
 
@@ -17,17 +17,10 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,androidstudio" />
 </p>
 
-###  Design & Creative Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
-</p>
-
 ---
 
 ##  Current Focus
--  React & frontend architecture  
--  UI/UX design systems  
+-  React & frontend architecture   
 -  Mobile & web-based applications  
 
 ---
