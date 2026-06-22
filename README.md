@@ -1,7 +1,7 @@
 # Hi, I'm Meerab 👋
 
 - Software Engineer with a strong passion for learning and building  
-- Currently focused on **React development** 
+- Currently focused on **AI development** 
 
 ---
 
